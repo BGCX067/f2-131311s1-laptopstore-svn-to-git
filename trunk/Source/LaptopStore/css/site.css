@@ -1,0 +1,66 @@
+/* CSS Document */
+
+#wrapper {
+	width: 960px;
+	margin: auto;
+}
+#header {
+	margin-top: 10px;
+	position: relative;
+}
+#header-top {
+	margin-bottom: 5px;
+	width: 460px;
+	float: right;
+}
+#nav {
+	margin-top: 3px;
+	background: #CCC;
+}
+#body {
+	margin-top: 5px;
+}
+#left {
+	float: left;
+	width: 200px;
+	padding-top: 20px;
+	margin-right: 10px;
+}
+#right {
+	float: right;
+	width: 740px;
+	margin-left: 10px;
+	padding-left: 10px;
+	padding-top: 20px;
+}
+#box {
+	float: left;
+	margin-right: 10px;
+	width: 233px;
+}
+#footer {
+	margin-bottom:5px;
+	height:auto;
+	background: -webkit-linear-gradient(black, gray); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(black, gray); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(black, gray); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(black, gray); /* Standard syntax (must be last) */
+}
+#footer-top {
+	height:150px;
+	padding:10px;
+}
+#footer-bot {
+	padding:10px;
+	height:40px;
+	color: white;
+}
+.price{
+	color:#F00
+}
+.name a{
+	color:#0F0
+}
+.name{
+	color:#0F0
+}
